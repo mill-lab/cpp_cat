@@ -1,0 +1,13 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+  double height = 1.72, weight = 65.2;
+  
+  cout << "BMIは体重を身長の2乗で割ったものです" << endl;
+  cout << "これが25を超えると" << "÷" << b << "=" << a + b << endl;
+  
+  return 0;
+}
